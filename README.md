@@ -1,5 +1,5 @@
 # Proyecto-Dise-o-de-Pruebas-Urban-Routes-
-Análisis de requisitos para función de compartir automóvil y licencia de conducir en Urban Routes
+Análisis de requisitos y diseño de pruebas
 
 •	Objetivo: Análisis de requisitos para la función de compartir automóvil y licencia de conducir.
 > 
